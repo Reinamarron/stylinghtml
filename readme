@@ -1,0 +1,24 @@
+    
+    Reflection
+    
+    Why is coding HTML for Email different from web coding?
+
+    According to www.emailbakery.com, some of the most obvious difference include:
+      
+       HTML email the same inline elements (<a href=”#”>, <span>, <strong>, <em>, etc) can’t be turned into block or inline block elements.
+
+       The <OL> and <UL> tags do not work on all email clients
+
+       there is no support of position: absolute; in all email clients
+
+
+    What concepts help coders work around the limitations of HTML in Emails?
+
+        According to www.mailchimp.com, two popular work around tools for html emails include: 
+
+        email design reference
+
+        Provides resources on design, development methods, code samples, and downloadable email blueprints to help you design and build emails.
+        email design guide
+
+        Provides campaign style, design, and layout tips in article form.
